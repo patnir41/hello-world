@@ -1,4 +1,4 @@
 # hello-world
-first project
+first repo
 
 February 1, 2019
